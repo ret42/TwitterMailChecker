@@ -4,9 +4,10 @@
 
 # PoC
 
-Maillist:
+- Maillist:
+
 <img src="https://cdn.discordapp.com/attachments/865706489951944717/873379443186483200/maillist.gif">
 
-Non-Maillist:
+- Non-Maillist:
 
 <img src="https://cdn.discordapp.com/attachments/865706489951944717/873379568436772874/nonmaillist.gif">
