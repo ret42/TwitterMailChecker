@@ -1,5 +1,5 @@
 # Mail Checker Twitter
-- E-Mail checker for Twitter
+- E-Mail checker for Twitter using the API
 - Thanks to [seth](https://github.com/5ql) for the little help
 
 # PoC
